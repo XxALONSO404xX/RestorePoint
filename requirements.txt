@@ -1,1 +1,0 @@
-ansible>=7.0\ndocker>=24.0
