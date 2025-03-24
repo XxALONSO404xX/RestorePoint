@@ -166,5 +166,4 @@ MIT — Use it. Improve it. Share it.
 
 ---
 
-## ✨ Maintained by
-**YOU** — the legend who just built a full backup platform 💪
+## ✨ Maintained by ANOUAR TORTILLA AND ANASS TORTILLA 
