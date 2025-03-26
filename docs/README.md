@@ -166,4 +166,4 @@ MIT — Use it. Improve it. Share it.
 
 ---
 
-## ✨ Maintained by ANOUAR TORTILLA AND ANASS TORTILLA 
+## ✨ Maintained by US
