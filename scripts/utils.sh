@@ -13,6 +13,8 @@ REPO_DIR=$BACKUP_DIR/local/borg-repo
 log_event() {
   local MESSAGE=$1
   local FILE=$2
+  # Ensure the logs directory exists before logging
+  ensure_dir "$LOG_DIR"
   echo "$(date '+%Y-%m-%d %H:%M:%S') - $MESSAGE" >> "$LOG_DIR/$FILE"
 }
 
@@ -31,6 +33,12 @@ check_error() {
 ensure_dir() {
   local DIR=$1
   if [ ! -d "$DIR" ]; then
+    echo "🛠️ Creating directory: $DIR"
     mkdir -p "$DIR"
+  fi
+  # Optional: Check if the script has write permissions for the directory
+  if [ ! -w "$DIR" ]; then
+    echo "❌ No write permissions for $DIR. Exiting."
+    exit 1
   fi
 }

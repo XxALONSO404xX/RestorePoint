@@ -1,0 +1,36 @@
+2025-04-11 12:05:17 - ✅ Borg backup created: backup-2025-04-11_12-03-23
+2025-04-11 12:05:17 - ✅ Backup script finished successfully
+2025-04-11 12:05:31 - ✅ Borg backup created: backup-2025-04-11_12-05-22
+2025-04-11 12:05:31 - ✅ Backup script finished successfully
+2025-04-11 12:09:08 - ✅ Borg backup created: backup-2025-04-11_12-08-58
+2025-04-11 12:09:08 - 🔒 Backup encrypted: /home/whoami/RestorePoint/backups/encrypted/backup-2025-04-11_12-08-58.age
+2025-04-11 12:09:10 - ☁️ Backup uploaded to Gdrive:/RestorePoint/encrypted/
+2025-04-11 12:09:10 - ✅ Backup script finished successfully
+2025-04-11 12:37:25 - ✅ Borg backup created: backup-2025-04-11_12-37-12
+2025-04-11 12:37:25 - 🔒 Backup encrypted: /home/whoami/RestorePoint/backups/encrypted/backup-2025-04-11_12-37-12.age
+2025-04-11 12:37:29 - ☁️ Backup uploaded to Gdrive:/RestorePoint/encrypted/
+2025-04-11 12:37:29 - ✅ Backup script finished successfully
+2025-04-11 12:42:24 - ✅ Borg backup created: backup-2025-04-11_12-42-12
+2025-04-11 12:42:24 - 🔒 Backup encrypted: /home/whoami/RestorePoint/backups/encrypted/backup-2025-04-11_12-42-12.age
+2025-04-11 12:42:28 - ☁️ Backup uploaded to Gdrive:/RestorePoint/encrypted/
+2025-04-11 12:42:28 - ✅ Backup script finished successfully
+2025-04-11 12:51:46 - ✅ Borg backup created: backup-2025-04-11_12-51-44
+2025-04-11 12:51:46 - 🔒 Backup encrypted: /home/whoami/RestorePoint/backups/encrypted/backup-2025-04-11_12-51-44.age
+2025-04-11 12:51:49 - ☁️ Backup uploaded to Gdrive:/RestorePoint/encrypted/
+2025-04-11 12:51:49 - ✅ Backup script finished successfully
+2025-04-11 12:56:20 - ✅ Borg backup created: backup-2025-04-11_12-56-11
+2025-04-11 12:56:20 - 🔒 Backup encrypted: /home/whoami/RestorePoint/backups/encrypted/backup-2025-04-11_12-56-11.age
+2025-04-11 12:56:23 - ☁️ Backup uploaded to Gdrive:/RestorePoint/encrypted/
+2025-04-11 12:56:23 - ✅ Backup script finished successfully
+2025-04-11 13:16:59 - ✅ Local backup created: /home/whoami/RestorePoint/backups/local/backup-2025-04-11_13-16-59
+2025-04-11 13:16:59 - ✅ Backup script finished successfully
+2025-04-11 13:26:23 - ✅ Local backup to temporary folder completed
+2025-04-11 13:26:23 - ✅ Encrypted backup created: /home/whoami/RestorePoint/backups/encrypted/backup-2025-04-11_13-26-23.age
+2025-04-11 13:26:27 - ✅ Uploaded encrypted backup to Google Drive
+2025-04-11 13:26:27 - 🧹 Cleaned up temporary backup folder
+2025-04-11 13:26:27 - ✅ Backup script finished successfully
+2025-04-11 13:31:52 - ✅ Local backup to temporary folder completed
+2025-04-11 13:31:52 - ✅ Encrypted backup created: /home/whoami/RestorePoint/backups/encrypted/backup-2025-04-11_13-31-52.age
+2025-04-11 13:31:54 - ✅ Uploaded encrypted backup to Google Drive
+2025-04-11 13:31:54 - 🧹 Cleaned up temporary backup folder
+2025-04-11 13:31:54 - ✅ Backup script finished successfully
